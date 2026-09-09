@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# Numba cache
+*.nbi
+*.nbc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded market data (raw API dumps — NOT committed)
+# Results CSVs and PNGs in results/ ARE committed (deliverables)
+data/*.csv
+data/*.parquet
+data/*.json
+
+# Logs
+*.log
+
+# Environment variables
+.env

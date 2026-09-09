@@ -1,0 +1,6 @@
+dgp,reject_lev,reject_mem,reject_sym,n_valid,n_failed
+A_symmetric,0.02,0.06,0.06,50,0
+B_level_asym,0.52,0.06,0.72,50,0
+C_memory_asym,0.08,0.16,0.24,50,0
+D_joint_asym,0.68,0.28,0.98,50,0
+E_near_boundary,0.6,0.08,0.76,50,0
